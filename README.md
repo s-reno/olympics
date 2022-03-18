@@ -8,4 +8,6 @@ performance of independent former-soviet countries.
 
 https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
-DATA: data file from the link above (athlete_events.csv) and attached file (dictionary) (or noc_regions.csv from above link).
+DATA: data files from the link above (athlete_events.csv) (noc_regions.csv)  OR
+
+files attached
